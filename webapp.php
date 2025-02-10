@@ -1,3 +1,7 @@
+#sudo yum install httpd php php-mysqlnd -y
+#sudo systemctl start httpd
+#sudo systemctl enable httpd
+
 <!DOCTYPE html>
 <html>
 <head>
